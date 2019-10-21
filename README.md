@@ -19,6 +19,7 @@
 - [Open Frameworks](http://www.openframeworks.cc/)
 - [Breakout js](http://breakoutjs.com/)
 - [Gephi](http://gephi.github.io/)
+- [Ossia](https://ossia.io/)
 
 ## programming courses
 - [Automate the boring stuff - learning pythong](https://automatetheboringstuff.com/chapter1/)
