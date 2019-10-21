@@ -1,11 +1,12 @@
 # Creative coding resources
+
 ## Github link repos
 - [Aweseme creative coding repo](https://github.com/terkelg/awesome-creative-coding) - long list of courses, books, websites... on creative coding
 - [Generative art repo](https://github.com/kosmos/awesome-generative-art)
 - [painting with sound](https://gumroad.com/joshuadavis)
 - [Made with code](https://www.madewithcode.com/)
 
-# Coding frameworks / software
+## Coding frameworks / software
 - [basil.js](http://www.basiljs.ch/)
 - [Nodebox](https://www.nodebox.net/)
 - [Hype framework - Joshua Davis](http://www.hypeframework.org/)
@@ -37,6 +38,7 @@
 - [Processing GLSL filters](https://github.com/SableRaf/Filters4Processing)
 - [type + code : Processing](https://issuu.com/jpagecorrigan/docs/type-code_yeohyun-ahn)
 - [Simulation and nature in design](http://n-e-r-v-o-u-s.com/education/)
+- [Kadenze](https://www.kadenze.com/)
 
 - [Creative Coding Examples](https://medium.com/@angelicabraccia/creative-coding-76d9310962d5)
 
