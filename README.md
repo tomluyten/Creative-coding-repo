@@ -23,6 +23,8 @@
 - [Ossia](https://ossia.io/)
 
 ## programming courses
+- [Programming design systems](https://programmingdesignsystems.com/)
+- [Designing Programs](https://designingprograms.bitbucket.io/index.html)
 - [Automate the boring stuff - learning pythong](https://automatetheboringstuff.com/chapter1/)
 - [Learnable programming](http://worrydream.com/LearnableProgramming/)
 - [Fun programming](http://funprogramming.org/)
