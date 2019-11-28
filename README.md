@@ -24,6 +24,8 @@
 - [Breakout js](http://breakoutjs.com/)
 - [Gephi](http://gephi.github.io/)
 - [Ossia](https://ossia.io/)
+- [Cables](https://cables.gl)
+- [Tool](http://tooll.io/)
 
 ## programming courses
 - [Programming design systems](https://programmingdesignsystems.com/)
