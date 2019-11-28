@@ -46,8 +46,10 @@
 - [type + code : Processing](https://issuu.com/jpagecorrigan/docs/type-code_yeohyun-ahn)
 - [Simulation and nature in design](http://n-e-r-v-o-u-s.com/education/)
 - [Kadenze](https://www.kadenze.com/)
-
 - [Creative Coding Examples](https://medium.com/@angelicabraccia/creative-coding-76d9310962d5)
+
+## Creative coding write-ups
+- [How to start creative coding](https://www.arts.ac.uk/study-at-ual/short-courses/stories/how-to-start-creative-coding)
 
 ## Data vis resources
 - [100 data vis tools](http://dailytekk.com/2012/02/27/over-100-incredible-infographic-tools-and-resources/)
