@@ -48,6 +48,9 @@
 - [Kadenze](https://www.kadenze.com/)
 - [Creative Coding Examples](https://medium.com/@angelicabraccia/creative-coding-76d9310962d5)
 
+## Generative art
+- [Robert Balke](https://robertbalke.de)
+
 ## Creative coding write-ups
 - [How to start creative coding](https://www.arts.ac.uk/study-at-ual/short-courses/stories/how-to-start-creative-coding)
 
