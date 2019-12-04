@@ -50,6 +50,7 @@
 
 ## Generative art
 - [Robert Balke](https://robertbalke.de)
+- [Tim Rodenbroker](https://timrodenbroeker.de/)
 
 ## Creative coding write-ups
 - [How to start creative coding](https://www.arts.ac.uk/study-at-ual/short-courses/stories/how-to-start-creative-coding)
