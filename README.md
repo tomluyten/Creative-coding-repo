@@ -59,3 +59,6 @@
 - [100 data vis tools](http://dailytekk.com/2012/02/27/over-100-incredible-infographic-tools-and-resources/)
 - [Data vis Berlin](https://datavis.berlin/)
 - [Physical visualizations](http://dataphys.org/list/)
+
+## Touchdesigner tutorials
+- [Intro + projection mapping - Jakob Marsico ](https://jmarsico.github.io/rsma2018/tutorials/)
