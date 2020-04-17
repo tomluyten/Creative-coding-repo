@@ -26,6 +26,7 @@
 - [Ossia](https://ossia.io/)
 - [Cables](https://cables.gl)
 - [Tool](http://tooll.io/)
+- [Observable](https://observablehq.com/)
 
 ## programming courses
 - __[Designing programs](https://designingprograms.bitbucket.io/index.html)__
