@@ -28,6 +28,7 @@
 - [Tool](http://tooll.io/)
 
 ## programming courses
+- __[Designing programs](https://designingprograms.bitbucket.io/index.html)__
 - [Programming design systems](https://programmingdesignsystems.com/)
 - [Designing Programs](https://designingprograms.bitbucket.io/index.html)
 - [Automate the boring stuff - learning pythong](https://automatetheboringstuff.com/chapter1/)
