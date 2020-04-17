@@ -3,6 +3,7 @@
 ## Lifesavers
 - [25 life saving tips for Processing](https://amnonp5.wordpress.com/2012/01/28/25-life-saving-tips-for-processing/) - Amnon P5
 - [Exporting video in Processing](http://brendandawes.com/blog/exportingvideoinp5)
+- [Serial to OSC convertor](https://seancotterill.xyz/art-and-programming/serial-to-osc-converter)
 ## Github link repos
 - [Aweseme creative coding repo](https://github.com/terkelg/awesome-creative-coding) - long list of courses, books, websites... on creative coding
 - [Generative art repo](https://github.com/kosmos/awesome-generative-art)
