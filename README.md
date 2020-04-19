@@ -31,6 +31,8 @@
 
 ## programming courses
 - __[Designing programs](https://designingprograms.bitbucket.io/index.html)__
+- [computational media course ITP NYU](https://github.com/ITPNYU/ICM-2019-Media)
+- [computational thinking - Google](https://computationalthinkingcourse.withgoogle.com/course?use_last_location=true)
 - [Programming design systems](https://programmingdesignsystems.com/)
 - [Designing Programs](https://designingprograms.bitbucket.io/index.html)
 - [Automate the boring stuff - learning pythong](https://automatetheboringstuff.com/chapter1/)
