@@ -65,3 +65,6 @@
 
 ## Touchdesigner tutorials
 - [Intro + projection mapping - Jakob Marsico ](https://jmarsico.github.io/rsma2018/tutorials/)
+
+## Physical computing
+- [physical computing course NYU ITP](https://itp.nyu.edu/physcomp/itp/syllabus/)
