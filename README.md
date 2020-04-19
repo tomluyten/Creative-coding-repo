@@ -68,5 +68,8 @@
 ## Touchdesigner tutorials
 - [Intro + projection mapping - Jakob Marsico ](https://jmarsico.github.io/rsma2018/tutorials/)
 
+## Processing tutorials
+- [Curves with lerp and delay](https://necessarydisorder.wordpress.com/2018/03/31/a-trick-to-get-looping-curves-with-lerp-and-delay/)
+
 ## Physical computing
 - [physical computing course NYU ITP](https://itp.nyu.edu/physcomp/itp/syllabus/)
