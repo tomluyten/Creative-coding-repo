@@ -67,6 +67,7 @@
 
 ## Touchdesigner tutorials
 - [Intro + projection mapping - Jakob Marsico ](https://jmarsico.github.io/rsma2018/tutorials/)
+- [chop chop chop](http://chopchopchop.com/)
 
 ## Processing tutorials
 - [Curves with lerp and delay](https://necessarydisorder.wordpress.com/2018/03/31/a-trick-to-get-looping-curves-with-lerp-and-delay/)
