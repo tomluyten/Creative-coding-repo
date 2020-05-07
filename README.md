@@ -9,6 +9,7 @@
 - [Generative art repo](https://github.com/kosmos/awesome-generative-art)
 - [painting with sound](https://gumroad.com/joshuadavis)
 - [Made with code](https://www.madewithcode.com/)
+- [Interactive art resources](https://github.com/hyphaebeast/interactive-art-resources)
 
 ## Coding frameworks / software
 - [basil.js](http://www.basiljs.ch/)
