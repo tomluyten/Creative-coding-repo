@@ -30,6 +30,7 @@
 - [Tool](http://tooll.io/)
 - [Observable](https://observablehq.com/)
 - [Tramontana](https://tramontana.xyz/)
+- [Buildbox](https://trafalmejo.github.io/OSCAR/)
 
 ## programming courses
 - __[Designing programs](https://designingprograms.bitbucket.io/index.html)__
@@ -71,6 +72,9 @@
 ## Touchdesigner tutorials
 - [Intro + projection mapping - Jakob Marsico ](https://jmarsico.github.io/rsma2018/tutorials/)
 - [chop chop chop](http://chopchopchop.com/)
+
+## Touchdesigner tools
+- [Oscar](https://trafalmejo.github.io/OSCAR/)
 
 ## Processing tutorials
 - [Curves with lerp and delay](https://necessarydisorder.wordpress.com/2018/03/31/a-trick-to-get-looping-curves-with-lerp-and-delay/)
